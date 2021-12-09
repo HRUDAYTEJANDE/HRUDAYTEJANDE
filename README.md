@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HRUDAYTEJANDE
 - 👀 I’m interested in Scratch,Python,HTML
-- 🌱 I’m currently learning Bat files
+- 🌱 I’m currently learning C/C++ files
 - 💞️ I’m looking to collaborate on coding/music
 
 <!---
